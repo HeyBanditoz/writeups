@@ -99,6 +99,6 @@ solubility
 knifes
 expounding
 sycamore
-tjctf{an\_38720\_step\_journey}
+tjctf{an_38720_step_journey}
 ```
 
